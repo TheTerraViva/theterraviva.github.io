@@ -1,12 +1,17 @@
 
 # Terra Viva
 
-## GIS and Data Science for a Living Planet
+##### GIS and Data Science for the Living Planet
+***
 
-[About](https://theterraviva.github.io/pages/about/)
+[About](theterraviva.github.io/pages/about/)
 
-[Services](https://theterraviva.github.io/pages/services/)
+[Services](theterraviva.github.io/pages/services/)
 
-[Applications](https://theterraviva.github.io/pages/applications/)
+[Applications](theterraviva.github.io/pages/applications/)
 
-[Contact](https://theterraviva.github.io/pages/contact/)
+[Contact](theterraviva.github.io/pages/contact/)
+
+***
+
+![](https://www.nasa.gov/sites/default/files/thumbnails/image/iss069e003192.jpg "The Himalayas and Mount Everest in Nepal, Apr 17, 2023, NASA")
