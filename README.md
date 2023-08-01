@@ -3,10 +3,10 @@
 
 ## GIS and Data Science for a Living Planet
 
-[About](https://theterraviva.github.io/pages/about.html)
+[About](https://theterraviva.github.io/pages/about/)
 
-[Services](https://theterraviva.github.io/pages/services.html)
+[Services](https://theterraviva.github.io/pages/services/)
 
-[Applications](https://theterraviva.github.io/pages/applications.html)
+[Applications](https://theterraviva.github.io/pages/applications/)
 
-[Contact](https://theterraviva.github.io/pages/contact.html)
+[Contact](https://theterraviva.github.io/pages/contact/)
