@@ -14,4 +14,4 @@
 
 ***
 
-![](https://www.nasa.gov/sites/default/files/thumbnails/image/iss069e003192.jpg "The Himalayas and Mount Everest in Nepal, Apr 17, 2023, NASA")
+![](bg.jpg "The Himalayas and Mount Everest in Nepal, Apr 17, 2023, NASA")

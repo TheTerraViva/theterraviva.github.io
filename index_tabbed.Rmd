@@ -1,0 +1,42 @@
+---
+title: "Terra Viva"
+output:
+  html_document:
+    theme: simplex
+    css: bg.css
+---
+
+## GIS and Data Science for the Living Planet {.tabset .tabset-fade .tabset-pills}
+
+### About
+
+Hello and welcome! I'm Lotem Taylor, the founder and owner of Terra Viva LLC. I founded my company in 2023 after nearly a decade of working in the field of conservation science in academic, governmental, and non-profit sectors.
+
+I offer GIS and data science services to better inform biological conservation amidst global change. I often work in R to analyze spatial patterns, manage large datasets, and scale up analyses with automated workflows. I enjoy developing new approaches and continuing to expand my technical skillset.
+
+My past experience includes hemispheric bird conservation with the National Audubon Society, regional land conservation in the San Francisco Bay Area with the Peninsula Open Space Trust, anadromous fish conservation with the California Department of Fish and Wildlife, and mammalian wildlife research with the Bartolome and Brashares Groups at UC Berkeley. I received my Bachelor’s degree in Conservation & Resource Studies from UC Berkeley.
+
+### Services
+
+* Data management
+* Spatial analysis
+* Mapping and data visualization
+* Science communication
+* Project management
+* Automation
+
+### Applications
+
+* Species distribution modeling under climate change
+* Climate change impacts in protected areas
+* Mapping bird migrations across the Americas
+* Sea level rise and shoreline change
+* Spatial conservation planning
+* Habitat suitability analyses
+* Conservation threats and risk assessments
+* Field sampling plans
+
+### Contact
+
+Please feel free to contact me via email at theterraviva@gmail.com.
+

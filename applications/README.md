@@ -1,4 +1,0 @@
-
-# Terra Viva
-
-## Applications
