@@ -1,13 +1,17 @@
+
 body {
-  background-image: url('https://www.nasa.gov/sites/default/files/thumbnails/image/52892230003_1f3d0ebf6d_k.jpeg');
-  font-size: 16px;
-  letter-spacing: 0.11rem;
-  font-family: 'Georgia';
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-image: url('https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA05070.width-1024.jpg');
+  margin-top: 20%;
+  margin-bottom: 5%;
+  margin-right: 5%;
+  margin-left: 5%;
   color: white;
-  margin-top: 12.5em;
-  margin-bottom: 5em;
-  margin-right: 10em;
-  margin-left: 10em;
+  text-align: center;
+  text-transform: uppercase;
 }
 
 body:before {
@@ -21,18 +25,34 @@ body:before {
     z-index: -1;
     background-color: rgba(0, 0, 0, 0.6);
 }
-h1, h2 {
-  color: white;
-  text-align: center;
-  text-transform: uppercase;
-  font-family: 'Gill Sans';
-}
+
 h1 {
+  color: white;
   font-size: 50px;
-  letter-spacing: 1rem;
+  letter-spacing: 20px;
+  line-height: 50px;
 }
+
 h2 {
+  color: white;
   font-size: 20px;
-  line-height: 70px;
-  letter-spacing: 0.5rem;
+  letter-spacing: 5px;
+  line-height: 50px;
+}
+
+
+ul {
+  font-weight: bold;
+  font-size: 18px;
+  letter-spacing: 3px;
+}
+
+p {
+  color: white;
+  font-size: 17px;
+  letter-spacing: 0.05rem;
+  font-family: 'Georgia';
+  font-weight: normal;
+  text-align: left;
+  text-transform: none;
 }
