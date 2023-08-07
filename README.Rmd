@@ -1,0 +1,77 @@
+---
+title: "Terra Viva"
+output:
+  html_document:
+    theme: simplex
+    css: bg.css
+---
+
+<!-- lumen, simplex, united, yeti -->
+<!-- https://www.nasa.gov/sites/default/files/thumbnails/image/45025340661_7b9f8f9402_k.jpg -->
+<!-- https://www.nasa.gov/sites/default/files/thumbnails/image/bombetoka_aster_23aug00_lrg.jpg -->
+<!-- https://www.nasa.gov/sites/default/files/thumbnails/image/iss057e111453_lrg.jpg -->
+
+## GIS and Data Science for the Living Planet
+
+## {.tabset .tabset-fade .tabset-pills}
+
+### About
+
+Hello and welcome! My name is Lotem Taylor, and I am the founder and owner of Terra Viva LLC. I offer GIS and data science services to better inform biological conservation amidst global change. I often work in R to analyze spatial patterns, manage large datasets, and scale up analyses with automated workflows. I enjoy developing new approaches and continuing to expand my technical skillset.
+
+I founded Terra Viva LLC after nearly a decade of experience in academic, governmental, and non-profit sectors. My past work includes hemispheric bird conservation with the National Audubon Society, regional land conservation with the Peninsula Open Space Trust, anadromous fish conservation with the California Department of Fish and Wildlife, and wildlife research with the Bartolome and Brashares Groups at UC Berkeley. I received my Bachelor’s degree in Conservation & Resource Studies from UC Berkeley.
+
+### Services
+
+Spatial analysis
+
+Data wrangling
+
+Data visualization
+
+Science communication
+
+Project management
+
+Automation
+
+### Portfolio
+
+Species Distribution Modeling
+
+Bird Migration Mapping across the Americas
+
+Climate Change in Conservation Areas
+
+Sea Level Rise and Shoreline Change
+
+Conservation Threats and Risk Assessments
+
+Spatial Conservation Planning
+
+Habitat Suitability Analyses
+
+Field Sampling Plans
+
+### Contact
+
+I would love to hear from you if I could be of service to you. Please feel free to contact me via email at **theterraviva@gmail.com**, or explore my code and publications to learn more.
+
+<br>
+
+```{r echo=FALSE, results='asis'}
+
+library(knitr)
+
+content <- c(
+'[![email](https://i.imgur.com/mwQ4c2U.png){width=50px}](mailto:theterraviva@gmail.com)',
+'[![github](https://i.imgur.com/FSlbpVx.png){width=50px}](https://github.com/TheTerraViva/)',
+'[![orcid](https://i.imgur.com/QvN2mBb.png){width=50px}](https://orcid.org/orcid=0000-0002-4881-6928)')
+
+table <- matrix(content, ncol=3)
+colnames(table) <- NULL
+
+kable(table, align='ccc', format="html", table.attr="style='width:100%;'")
+
+```
+
