@@ -14,7 +14,7 @@ output:
 
 Hello and welcome! My name is Lotem Taylor and I am the sole proprietor of Terra Viva LLC. I offer GIS and data science services to better inform biological conservation amidst global change. I often work in R to analyze spatial patterns, manage large datasets, and scale up analyses with automated workflows. I enjoy developing new approaches and continuing to expand my technical skillset.
 
-I founded my company after nearly a decade of experience in academic, governmental, and non-profit sectors. My past work includes hemispheric bird conservation with the National Audubon Society, regional land conservation with the Peninsula Open Space Trust, fish conservation with the California Department of Fish and Wildlife, and wildlife research with the Bartolome and Brashares Groups at UC Berkeley.
+I founded my company after nearly a decade of experience in academic, governmental, and non-profit sectors, including work with the National Audubon Society, Peninsula Open Space Trust, California Department of Fish and Wildlife, and Bartolome and Brashares Groups at UC Berkeley.
 
 I would be excited to work with you on any project that fits my skillset. Please let me know if I can be of service to you or if you have any other questions.
 
@@ -26,8 +26,11 @@ library(knitr)
 
 content <- c(
 '[![email](https://i.imgur.com/ogCTgIu.png){height=30px}](mailto:theterraviva@gmail.com)',
+'Mail',
 '[![github](https://i.imgur.com/Ozq0cey.png){height=30px}](https://github.com/TheTerraViva/)',
-'[![orcid](https://i.imgur.com/lk1xoRs.png){height=30px}](https://orcid.org/orcid=0000-0002-4881-6928)')
+'Code',
+'[![orcid](https://i.imgur.com/lk1xoRs.png){height=30px}](https://orcid.org/0000-0002-4881-6928)',
+'Pubs')
 
 table <- matrix(content, ncol=3)
 colnames(table) <- NULL
@@ -70,9 +73,9 @@ Automation
 
 ### Credits
 
-I strongly believe in open access to data and code. My website was built in R Markdown with the **[Bootswatch Simplex Theme](https://bootswatch.com/simplex/)**. All code, images, and icons are publicly available.
+I strongly believe in open access data and code. I built my website in R Markdown with the **[Bootswatch Simplex Theme](https://bootswatch.com/simplex/)**. All code, images, and icons are publicly available.
 
-The background image of my website is **[Laguna San Rafael National Park Viewed from the Space Station](https://www.nasa.gov/image-feature/laguna-san-rafael-national-park-viewed-from-the-space-station)** provided by NASA/Warren “Woody” Hoburg and edited by Dacia Massengill.
+The background image of my website is **[Laguna San Rafael National Park Viewed from the Space Station](https://www.nasa.gov/image-feature/laguna-san-rafael-national-park-viewed-from-the-space-station)** from NASA.
 
 All icons were created by Pixel Perfect and are freely available at **[Flaticon](https://www.flaticon.com/authors/pixel-perfect)**.
 
