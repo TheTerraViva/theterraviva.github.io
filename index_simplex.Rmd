@@ -2,14 +2,15 @@
 title: 'Terra Viva'
 output:
   html_document:
-    theme: spacelab
-    css: spacelab.css
+    theme: simplex
+    css: simplex.css
 ---
 
 ## GIS and Data Science for the Living Planet
 
 ```{r echo=FALSE, results='asis'}
-# spacelab simplex
+# cosmo lumen paper spacelab
+# simplex
 
 library(knitr)
 library(kableExtra)
@@ -32,7 +33,7 @@ Hello and welcome! My name is Lotem Taylor and I am the sole proprietor of Terra
 
 I founded my company after nearly a decade of experience in academic, governmental, and non-profit sectors, including work with the National Audubon Society, Peninsula Open Space Trust, California Department of Fish and Wildlife, and Bartolome and Brashares Groups at UC Berkeley.
 
-I would be excited to work with you. Please feel free to contact me with any questions.
+I would be excited to work with you on any project that fits my skillset. Please let me know if I can be of service to you or if you have any other questions.
 
 <br>
 <center>
@@ -43,11 +44,11 @@ library(knitr)
 library(kableExtra)
 
 content <- c(
-'[![Email](https://i.imgur.com/WRvxfkX.png){height=25px}](mailto:theterraviva@gmail.com)',
+'[![email](https://i.imgur.com/ogCTgIu.png){height=30px}](mailto:theterraviva@gmail.com)',
 'Email',
-'[![GitHub](https://i.imgur.com/6R8yeu9.png){height=25px}](https://github.com/TheTerraViva/)',
+'[![github](https://i.imgur.com/Ozq0cey.png){height=30px}](https://github.com/TheTerraViva/)',
 'GitHub',
-'[![Papers](https://i.imgur.com/tSZpHLz.png){height=25px}](https://orcid.org/0000-0002-4881-6928)',
+'[![orcid](https://i.imgur.com/lk1xoRs.png){height=30px}](https://orcid.org/0000-0002-4881-6928)',
 'Papers')
 
 table <- matrix(content, ncol=3)
@@ -95,9 +96,9 @@ Automation
 
 I support open access to data and code. I built my website with R Markdown and CSS, and all code, images, and icons are publicly available.
 
-Background: **[Snow and Sand in Central Asia, NASA](https://www.nasa.gov/image-feature/snow-and-sand-in-central-asia)**
+Background image: **[Snow and Sand in Central Asia, NASA](https://www.nasa.gov/image-feature/snow-and-sand-in-central-asia)**
 
-Theme: **[Bootswatch Spacelab Theme](https://bootswatch.com/spacelab/)**
+Theme: **[Bootswatch Simplex Theme](https://bootswatch.com/simplex/)**
 
 Icons: **[Pixel Perfect on Flaticon](https://www.flaticon.com/authors/pixel-perfect)**
 

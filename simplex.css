@@ -6,9 +6,9 @@ body {
   background-position: center;
   background-image: url('https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/52892230003_1f3d0ebf6d_k.jpeg');
   margin-top: 20%;
-  margin-bottom: 5%;
-  margin-right: 5%;
-  margin-left: 5%;
+  margin-bottom: 7.5%;
+  margin-right: 7.5%;
+  margin-left: 7.5%;
   color: white;
   text-align: center;
   text-transform: uppercase;
@@ -39,7 +39,6 @@ h2 {
   letter-spacing: 5px;
   line-height: 50px;
 }
-
 
 ul {
   font-weight: bold;
