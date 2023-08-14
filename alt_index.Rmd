@@ -44,12 +44,13 @@ library(knitr)
 library(kableExtra)
 
 content <- c(
-'[![email](https://i.imgur.com/ogCTgIu.png){height=30px}](mailto:theterraviva@gmail.com)',
-'Email',
-'[![github](https://i.imgur.com/Ozq0cey.png){height=30px}](https://github.com/TheTerraViva/)',
-'GitHub',
-'[![orcid](https://i.imgur.com/lk1xoRs.png){height=30px}](https://orcid.org/0000-0002-4881-6928)',
-'Papers')
+'[![Email](https://i.imgur.com/WRvxfkX.png){width=25px}](mailto:theterraviva@gmail.com)',
+toupper('Email'),
+'[![GitHub](https://i.imgur.com/6R8yeu9.png){width=25px}](https://github.com/TheTerraViva/)',
+toupper('GitHub'),
+'[![Papers](https://i.imgur.com/tSZpHLz.png){width=25px}](https://orcid.org/0000-0002-4881-6928)',
+toupper('Papers')
+)
 
 table <- matrix(content, ncol=3)
 colnames(table) <- NULL

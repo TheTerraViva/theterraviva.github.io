@@ -4,7 +4,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
-  background-image: url('https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/iss057e111453_lrg.jpg');
+  background-image: url('https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/52892230003_1f3d0ebf6d_k.jpeg');
   margin-top: 20%;
   margin-bottom: 7.5%;
   margin-right: 7.5%;
@@ -23,35 +23,43 @@ body:before {
     left: 0;
     top: 0;
     z-index: -1;
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.675);
 }
 
 h1 {
   color: white;
+  text-align: center;
   font-size: 50px;
   letter-spacing: 20px;
-  line-height: 50px;
+  text-transform: uppercase;
 }
 
 h2 {
   color: white;
-  font-size: 15px;
+  text-align: center;
+  font-size: 18px;
   letter-spacing: 5px;
-  line-height: 50px;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  text-transform: uppercase;
 }
 
 ul {
   font-weight: bold;
-  font-size: 15px;
+  font-size: 18px;
   letter-spacing: 3px;
+  text-transform: uppercase;
 }
 
 p {
   color: white;
   font-size: 15px;
-  letter-spacing: 0.05rem;
-  font-family: 'Georgia';
   font-weight: normal;
   text-align: left;
   text-transform: none;
+}
+
+table td {
+  font-size: 13px;
+  padding: 2px 0;
 }
