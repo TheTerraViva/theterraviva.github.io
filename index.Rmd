@@ -2,7 +2,7 @@
 title: 'Terra Viva'
 output:
   html_document:
-    theme: united
+    theme: spacelab
     css: main.css
     fig_caption: false
 ---
@@ -78,7 +78,7 @@ I support open access to data and code. I built my website with R Markdown and C
 
 Background: **[Snow and Sand in Central Asia, NASA](https://www.nasa.gov/image-feature/snow-and-sand-in-central-asia)**
 
-Theme: **[Bootswatch United](https://bootswatch.com/united/)**
+Theme: **[Bootswatch Spacelab](https://bootswatch.com/spacelab/)**
 
 Icons: **[Pixel Perfect on Flaticon](https://www.flaticon.com/authors/pixel-perfect)**
 

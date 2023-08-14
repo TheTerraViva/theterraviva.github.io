@@ -3,8 +3,8 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: center;
-  background-image: url('https://i.imgur.com/PU1ZO5s.jpg');
+  background-position: top;
+  background-image: url('https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/iss057e111453_lrg.jpg');
   height: 100%;
   margin-top: 18%;
   margin-bottom: 8%;
@@ -22,7 +22,7 @@ body:before {
     left: 0;
     top: 0;
     z-index: -1;
-    background-color: rgba(0, 0, 0, 0.675);
+    background-color: rgba(0, 0, 0, 0.6);
 }
 
 h1 {
