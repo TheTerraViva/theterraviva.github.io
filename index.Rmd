@@ -9,7 +9,56 @@ output:
 
 ## GIS and Data Science for the Living Planet
 
+```{r echo=FALSE, results='asis'}
+
+library(knitr)
+library(kableExtra)
+
+content <- c(' ')
+
+table <- matrix(content, ncol=1)
+colnames(table) <- NULL
+
+kable(table, align='c', format='html', table.attr='style="width:90%;"') %>%
+  kable_styling(position='center', font_size=0)
+
+```
+
 ## {.tabset .tabset-fade .tabset-pills}
+
+### About
+
+Hello and welcome! My name is Lotem Taylor and I am the sole proprietor of Terra Viva. I offer GIS and data science services to better inform conservation amidst global change. I analyze spatial patterns, manage large datasets, and scale up analyses with automated workflows. I enjoy developing new approaches and continuing to expand my skillset.
+
+I founded Terra Viva in 2023 after a decade of experience in academic, governmental, and non-profit sectors, including work with the National Audubon Society, Peninsula Open Space Trust, California Department of Fish and Wildlife, and Bartolome and Brashares Groups at UC Berkeley.
+
+I am excited to work with you. Please feel free to contact me with any questions or requests.
+
+<br>
+<center>
+
+```{r echo=FALSE, results='asis'}
+
+library(knitr)
+library(kableExtra)
+
+content <- c(
+'[![Email](https://i.imgur.com/WRvxfkX.png){width=25px}](mailto:theterraviva@gmail.com)',
+toupper('Email'),
+'[![GitHub](https://i.imgur.com/6R8yeu9.png){width=25px}](https://github.com/TheTerraViva/)',
+toupper('GitHub'),
+'[![Papers](https://i.imgur.com/tSZpHLz.png){width=25px}](https://orcid.org/0000-0002-4881-6928)',
+toupper('Papers')
+)
+
+table <- matrix(content, ncol=3)
+colnames(table) <- NULL
+
+kable(table, align='c', format='html', table.attr='style="width:70%;"')
+
+```
+
+</center>
 
 ### Services
 
@@ -37,40 +86,6 @@ I am comfortable working with data in a variety of formats --- tabular and spati
 
 I enjoy developing new workflows and finding ways to automate repetitive tasks.
 <br>
-
-### About
-
-Hello and welcome! My name is Lotem Taylor and I am the sole proprietor of Terra Viva. I offer GIS and data science services to better inform conservation amidst global change. I analyze spatial patterns, manage large datasets, and scale up analyses with automated workflows. I enjoy developing new approaches and continuing to expand my skillset.
-
-I founded Terra Viva in 2023 after a decade of experience in academic, governmental, and non-profit sectors, including work with the National Audubon Society, Peninsula Open Space Trust, California Department of Fish and Wildlife, and Bartolome and Brashares Groups at UC Berkeley.
-
-I would be excited to work with you. Please feel free to contact me with any questions or requests.
-
-<br>
-<center>
-
-```{r echo=FALSE, results='asis'}
-
-library(knitr)
-library(kableExtra)
-
-content <- c(
-'[![Email](https://i.imgur.com/WRvxfkX.png){width=25px}](mailto:theterraviva@gmail.com)',
-toupper('Email'),
-'[![GitHub](https://i.imgur.com/6R8yeu9.png){width=25px}](https://github.com/TheTerraViva/)',
-toupper('GitHub'),
-'[![Papers](https://i.imgur.com/tSZpHLz.png){width=25px}](https://orcid.org/0000-0002-4881-6928)',
-toupper('Papers')
-)
-
-table <- matrix(content, ncol=3)
-colnames(table) <- NULL
-
-kable(table, align='c', format='html', table.attr='style="width:70%;"')
-
-```
-
-</center>
 
 ### Credits
 
