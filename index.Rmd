@@ -2,33 +2,22 @@
 title: 'Terra Viva'
 output:
   html_document:
-    theme: spacelab
+    theme: yeti
     css: main.css
     fig_caption: false
 ---
 
 ## GIS and Data Science for the Living Planet
 
-```{r echo=FALSE, results='asis'}
+## {.tabset .break}
 
-library(knitr)
-library(kableExtra)
-
-content <- c(' ')
-
-table <- matrix(content, ncol=1)
-colnames(table) <- NULL
-
-kable(table, align='c', format='html', table.attr='style="width:90%;"') %>%
-  kable_styling(position='center', font_size=0)
-
-```
-
-## {.tabset .tabset-fade .tabset-pills}
+### Home
 
 ### About
 
-Hello and welcome! My name is Lotem Taylor and I am the sole proprietor of Terra Viva. I offer GIS and data science services to better inform conservation amidst global change. I analyze spatial patterns, manage large datasets, and scale up analyses with automated workflows. I enjoy developing new approaches and continuing to expand my skillset.
+Hello and welcome!
+
+My name is Lotem Taylor and I am the sole proprietor of Terra Viva. I offer GIS and data science services to better inform conservation amidst global change. I analyze spatial patterns, manage large datasets, and scale up analyses with automated workflows. I enjoy developing new approaches and continuing to expand my skillset.
 
 I founded Terra Viva in 2023 after a decade of experience in academic, governmental, and non-profit sectors, including work with the National Audubon Society, Peninsula Open Space Trust, California Department of Fish and Wildlife, and Bartolome and Brashares Groups at UC Berkeley.
 
@@ -93,9 +82,9 @@ I support open access to data and code. I built my website with R Markdown and C
 
 Background: **[Snow and Sand in Central Asia, NASA](https://www.nasa.gov/image-feature/snow-and-sand-in-central-asia)**
 
-Theme: **[Bootswatch Spacelab](https://bootswatch.com/spacelab/)**
-
 Icons: **[Pixel Perfect on Flaticon](https://www.flaticon.com/authors/pixel-perfect)**
+
+Theme: **[Bootswatch Yeti](https://bootswatch.com/yeti/)**
 
 Last updated `r format(Sys.Date(), '%B %Y')`.
 
