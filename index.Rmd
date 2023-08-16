@@ -17,7 +17,7 @@ output:
 
 Hello and welcome!
 
-My name is Lotem Taylor and I am the sole proprietor of Terra Viva. I offer GIS and data science services to better inform conservation amidst global change. I analyze spatial patterns, manage large datasets, and scale up analyses with automated workflows. I enjoy developing new approaches and continuing to expand my skillset.
+My name is Lotem Taylor and I am the sole proprietor of Terra Viva. I offer GIS and data science services to better inform conservation amidst global environmental change. I map spatial patterns, manage large datasets, and scale up analyses with automated workflows. I enjoy developing new approaches and continuing to expand my skillset.
 
 I founded Terra Viva in 2023 after a decade of experience in academic, governmental, and non-profit sectors, including work with the National Audubon Society, Peninsula Open Space Trust, California Department of Fish and Wildlife, and Bartolome and Brashares Groups at UC Berkeley.
 
@@ -53,7 +53,7 @@ kable(table, align='c', format='html', table.attr='style="width:70%;"')
 
 ![Research](https://i.imgur.com/RTyvYTX.png){width=25px} $~$ **ORIGINAL RESEARCH**
 
-I am fascinated by global change, how species and ecosystems respond to its impacts, and how to plan conservation effectively.
+I am fascinated by global environmental change, how species and ecosystems respond to its impacts, and how to plan conservation effectively.
 <br>
 
 ![Analysis](https://i.imgur.com/FYvZsPV.png){width=25px} $~$ **SCIENTIFIC ANALYSIS**
